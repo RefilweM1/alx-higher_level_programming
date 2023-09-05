@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "./100-write.py", line 3, in <module>
+    sys.stdeer("and that piece of art is useful - DoraKorpar, 2015-10-19\n")
+AttributeError: module 'sys' has no attribute 'stdeer'
